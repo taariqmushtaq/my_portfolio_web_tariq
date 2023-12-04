@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/jj.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "a man artistic statue";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "LinkedIn",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "As we all know that LinkedIn is basic platform to showcase our skills or talent to the public.",
+    url: "https://www.linkedin.com/in/tariq-mushtaq-9baa56247/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Data Science Challenge",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is challenge in which I daily work to enhance my data science skills.",
+    url: "https://github.com/taariqmushtaq/Data_Science_Journey",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://drive.google.com/file/d/1WKW0Nyag1981FNMYe5q6eoZi5TMELZRk/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Web Design",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A website that I designed and developed for a local business. Includes a mental health clinic appointment system.",
+    url: "https://aboualazayem.com/",
   },
 ];
 
